@@ -56,8 +56,8 @@ Open the local URL printed by Streamlit. To run rules-only, skip model training 
 ## Docker (optional)
 
 ```bash
-docker build -t group-2a-phishing-agent .
-docker run --rm -p 8501:8501 group-2a-phishing-agent
+docker build -t spam-project .
+docker run --rm -p 8501:8501 spam-project
 ```
 
 Open `http://localhost:8501`. The image starts in rules-fallback mode; train a local model outside the container if desired. Streamlit binds to the container interface for port forwarding; local non-container runs bind to `127.0.0.1`.
