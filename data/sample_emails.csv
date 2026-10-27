@@ -1,0 +1,3 @@
+id,sender,reply_to,subject,body,auth_results,attachment_metadata
+SAMPLE-B-001,riley@university.example,,Project meeting notes,"Here are the notes from our project meeting. Please review when convenient.",SPF pass; DKIM pass; DMARC pass,
+SAMPLE-S-001,notice@account-alert.example,reply@unrelated-mail.example,Urgent: verify your account,"Your account will be suspended today. Verify your password immediately at hxxp://account-check.example/verify",SPF fail; DKIM fail; DMARC fail,account.html

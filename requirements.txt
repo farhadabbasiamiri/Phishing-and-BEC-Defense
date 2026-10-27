@@ -1,13 +1,6 @@
-# streamlit
-# pandas
-# numpy
-# scikit-learn
-# tldextract
-# dnspython
-# python-dotenv
-# requests
-# pytest
-# joblib
-
-streamlit>=1.36,<2.0
-pandas>=2.0,<3.0
+pandas>=2.2,<4
+pydantic>=2.10,<3
+scikit-learn>=1.6,<2
+joblib>=1.4,<2
+streamlit>=1.41,<2
+pytest>=8.3,<10
