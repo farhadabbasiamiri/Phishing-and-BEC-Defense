@@ -1,0 +1,5 @@
+From: IT Help Desk <helpdesk@laurentian.ca>
+Subject: Urgent: password expires today
+Authentication-Results: mx.example; spf=pass; dkim=fail; dmarc=pass
+
+Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.

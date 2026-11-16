@@ -1,0 +1,7 @@
+From: Accounts <billing@acme-invoicing.top>
+Reply-To: collect@secure-mail.xyz
+Subject: Invoice 4471 - payment overdue
+Authentication-Results: mx.example; spf=softfail; dkim=none; dmarc=fail
+X-Attachments: Invoice.pdf.exe
+
+Please find the attached invoice. Payment is urgent; this is your final notice. Open the attachment to view bank details.

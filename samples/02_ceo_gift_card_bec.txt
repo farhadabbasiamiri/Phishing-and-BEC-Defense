@@ -1,0 +1,10 @@
+From: Dr. Marc Tremblay, President <marc.tremblay@gmail.com>
+Subject: Quick favour
+Authentication-Results: mx.example; spf=pass; dkim=pass; dmarc=none
+
+Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 5 gift card codes of $100 for a client today.
+Keep this confidential and reply only by email.
+
+Marc

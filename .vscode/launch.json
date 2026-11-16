@@ -1,0 +1,8 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {"name": "Make dataset", "type": "debugpy", "request": "launch", "program": "make_data.py", "console": "integratedTerminal"},
+    {"name": "Evaluate", "type": "debugpy", "request": "launch", "program": "evaluate.py", "console": "integratedTerminal"},
+    {"name": "Streamlit app", "type": "debugpy", "request": "launch", "module": "streamlit", "args": ["run", "app.py"], "console": "integratedTerminal"}
+  ]
+}

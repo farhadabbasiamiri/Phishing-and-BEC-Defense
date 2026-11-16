@@ -1,0 +1,2 @@
+time,analyst,email_id,action,decision
+2026-11-16T02:15:38,analyst1,pasted,Add extracted URL domains to the blocklist (defanged),approved

@@ -1,0 +1,22 @@
+id,category,truth,rules,ml_prob,hybrid,subject,err_Rules,err_ML,err_Hybrid
+B0017,hard_marketing,0,40,0.03778371735879499,21.9,Final notice: sale ends today!,True,False,False
+B0050,hard_marketing,0,40,0.03778371735879499,21.9,Final notice: sale ends today!,True,False,False
+B0112,hard_marketing,0,40,0.03778371735879499,21.9,Final notice: sale ends today!,True,False,False
+B0109,hard_it,0,33,0.007867348671922316,16.9,Urgent: password expires today,True,False,False
+B0220,hard_it,0,33,0.007867348671922316,16.9,Urgent: password expires today,True,False,False
+B0125,hard_it,0,33,0.007867348671922316,16.9,Urgent: password expires today,True,False,False
+B0192,hard_marketing,0,40,0.03778371735879499,21.9,Final notice: sale ends today!,True,False,False
+B0048,hard_it,0,33,0.007867348671922316,16.9,Urgent: password expires today,True,False,False
+B0069,hard_it,0,33,0.007867348671922316,16.9,Urgent: password expires today,True,False,False
+B0091,hard_marketing,0,40,0.03778371735879499,21.9,Final notice: sale ends today!,True,False,False
+B0162,hard_it,0,33,0.007867348671922316,16.9,Urgent: password expires today,True,False,False
+B0179,hard_it,0,33,0.007867348671922316,16.9,Urgent: password expires today,True,False,False
+B0142,hard_marketing,0,40,0.03778371735879499,21.9,Final notice: sale ends today!,True,False,False
+B0082,hard_marketing,0,40,0.03778371735879499,21.9,Final notice: sale ends today!,True,False,False
+B0172,hard_it,0,33,0.007867348671922316,16.9,Urgent: password expires today,True,False,False
+B0080,hard_it,0,33,0.007867348671922316,16.9,Urgent: password expires today,True,False,False
+B0038,hard_marketing,0,40,0.03778371735879499,21.9,Final notice: sale ends today!,True,False,False
+B0193,hard_it,0,33,0.007867348671922316,16.9,Urgent: password expires today,True,False,False
+B0215,hard_marketing,0,40,0.03778371735879499,21.9,Final notice: sale ends today!,True,False,False
+B0011,hard_marketing,0,40,0.03778371735879499,21.9,Final notice: sale ends today!,True,False,False
+B0013,hard_marketing,0,40,0.03778371735879499,21.9,Final notice: sale ends today!,True,False,False
