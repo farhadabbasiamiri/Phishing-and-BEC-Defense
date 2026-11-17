@@ -1,0 +1,151 @@
+id,category,truth,rules,ml_prob,hybrid,subject,err_Rules,err_ML,err_Hybrid
+P0006,bec,1,62,0.9868051111701575,80.3,Quick favour,False,False,False
+P0117,evasive_bec,1,32,0.9742275348653503,64.7,Updated banking details,False,False,False
+P0100,payroll,1,85,0.994555179087844,92.2,Change of direct deposit,False,False,False
+B0116,reset,0,0,0.004882058913685334,0.2,Reset your password,False,False,False
+B0227,invite,0,0,0.01441709156108936,0.7,Project sync,False,False,False
+P0111,parcel,1,67,0.9830737830692391,82.7,Your parcel could not be delivered,False,False,False
+P0194,credential,1,100,0.9998230530940074,100.0,Your password expires today,False,False,False
+B0195,reset,0,0,0.004882058913685334,0.2,Reset your password,False,False,False
+B0055,invoice,0,0,0.058706718155559764,2.9,Invoice 3470 for October,False,False,False
+P0127,credential,1,90,0.9999210689295871,95.0,Action required: Google account suspended,False,False,False
+B0196,invite,0,0,0.01441709156108936,0.7,Project sync,False,False,False
+B0017,hard_marketing,0,40,0.03778371735879499,21.9,Final notice: sale ends today!,True,False,False
+P0199,evasive_bec,1,32,0.9742275348653503,64.7,Updated banking details,False,False,False
+P0137,payroll,1,40,0.9191879745466598,66.0,Change of direct deposit,False,False,False
+P0033,invoice,1,97,0.9993923145403817,98.5,Invoice 4848 - payment overdue,False,False,False
+P0215,credential,1,100,0.9999330839226752,100.0,Action required: Linkedin account suspended,False,False,False
+B0095,invoice,0,0,0.058706718155559764,2.9,Invoice 1208 for October,False,False,False
+P0112,credential,1,100,0.9999330839226752,100.0,Action required: Microsoft account suspended,False,False,False
+B0016,invite,0,0,0.01441709156108936,0.7,Project sync,False,False,False
+B0006,memo,0,0,0.02064920082167187,1.0,Faculty meeting Thursday,False,False,False
+B0213,newsletter,0,0,0.0077802575141608776,0.4,Monthly newsletter,False,False,False
+B0039,reset,0,0,0.004882058913685334,0.2,Reset your password,False,False,False
+P0080,evasive,1,32,0.9741432576057565,64.7,Shared document,False,False,False
+B0108,invoice,0,0,0.058706718155559764,2.9,Invoice 7909 for October,False,False,False
+B0231,memo,0,0,0.02064920082167187,1.0,Faculty meeting Thursday,False,False,False
+P0125,bec,1,62,0.9868051111701575,80.3,Quick favour,False,False,False
+B0023,invoice,0,0,0.058706718155559764,2.9,Invoice 1813 for October,False,False,False
+B0014,reset,0,0,0.004882058913685334,0.2,Reset your password,False,False,False
+P0085,evasive_bec,1,32,0.9742275348653503,64.7,Updated banking details,False,False,False
+P0221,payroll,1,63,0.9913078905285599,81.1,Change of direct deposit,False,False,False
+P0066,bec,1,62,0.9868051111701575,80.3,Quick favour,False,False,False
+B0241,reset,0,0,0.004882058913685334,0.2,Reset your password,False,False,False
+B0050,hard_marketing,0,40,0.03778371735879499,21.9,Final notice: sale ends today!,True,False,False
+P0162,payroll,1,77,0.9926213400607022,88.1,Change of direct deposit,False,False,False
+P0071,evasive,1,32,0.9741432576057565,64.7,Shared document,False,False,False
+P0090,invoice,1,72,0.9797909816867557,85.0,Invoice 1430 - payment overdue,False,False,False
+B0112,hard_marketing,0,40,0.03778371735879499,21.9,Final notice: sale ends today!,True,False,False
+B0153,invoice,0,0,0.058706718155559764,2.9,Invoice 3263 for October,False,False,False
+P0132,parcel,1,53,0.9800948869559781,75.5,Your parcel could not be delivered,False,False,False
+P0163,invoice,1,99,0.9984399689854226,99.4,Invoice 9683 - payment overdue,False,False,False
+B0246,reset,0,0,0.004882058913685334,0.2,Reset your password,False,False,False
+P0217,parcel,1,63,0.9629876626751739,79.6,Your parcel could not be delivered,False,False,False
+P0171,payroll,1,40,0.9191879745466598,66.0,Change of direct deposit,False,False,False
+P0223,evasive,1,32,0.9741432576057565,64.7,Shared document,False,False,False
+B0109,hard_it,0,33,0.007867348671922316,16.9,Urgent: password expires today,True,False,False
+P0063,credential,1,100,0.9995547805070034,100.0,Your password expires today,False,False,False
+P0018,invoice,1,95,0.9965242291467985,97.3,Invoice 9701 - payment overdue,False,False,False
+P0158,payroll,1,75,0.9971154975037783,87.4,Change of direct deposit,False,False,False
+B0046,invite,0,0,0.01441709156108936,0.7,Project sync,False,False,False
+P0160,payroll,1,65,0.977965232388033,81.4,Change of direct deposit,False,False,False
+B0170,newsletter,0,0,0.0077802575141608776,0.4,Monthly newsletter,False,False,False
+B0165,reset,0,0,0.004882058913685334,0.2,Reset your password,False,False,False
+P0204,evasive_bec,1,32,0.9742275348653503,64.7,Updated banking details,False,False,False
+B0183,invite,0,0,0.01441709156108936,0.7,Project sync,False,False,False
+B0220,hard_it,0,33,0.007867348671922316,16.9,Urgent: password expires today,True,False,False
+B0247,newsletter,0,0,0.0077802575141608776,0.4,Monthly newsletter,False,False,False
+P0130,credential,1,100,0.9998230530940074,100.0,Your password expires today,False,False,False
+P0088,parcel,1,55,0.9504011168119165,75.0,Your parcel could not be delivered,False,False,False
+B0125,hard_it,0,33,0.007867348671922316,16.9,Urgent: password expires today,True,False,False
+P0077,evasive_bec,1,32,0.9742275348653503,64.7,Updated banking details,False,False,False
+B0192,hard_marketing,0,40,0.03778371735879499,21.9,Final notice: sale ends today!,True,False,False
+P0001,parcel,1,30,0.8308169316516991,56.5,Your parcel could not be delivered,False,False,False
+P0121,evasive,1,32,0.9741432576057565,64.7,Shared document,False,False,False
+B0048,hard_it,0,33,0.007867348671922316,16.9,Urgent: password expires today,True,False,False
+B0064,reset,0,0,0.004882058913685334,0.2,Reset your password,False,False,False
+P0143,bec,1,62,0.9868051111701575,80.3,Quick favour,False,False,False
+P0047,payroll,1,77,0.9926213400607022,88.1,Change of direct deposit,False,False,False
+B0003,newsletter,0,0,0.0077802575141608776,0.4,Monthly newsletter,False,False,False
+B0069,hard_it,0,33,0.007867348671922316,16.9,Urgent: password expires today,True,False,False
+B0091,hard_marketing,0,40,0.03778371735879499,21.9,Final notice: sale ends today!,True,False,False
+P0109,evasive_bec,1,32,0.9742275348653503,64.7,Updated banking details,False,False,False
+B0200,memo,0,0,0.02064920082167187,1.0,Faculty meeting Thursday,False,False,False
+B0146,reset,0,0,0.004882058913685334,0.2,Reset your password,False,False,False
+B0162,hard_it,0,33,0.007867348671922316,16.9,Urgent: password expires today,True,False,False
+P0057,credential,1,87,0.9997166268812024,93.5,Your password expires today,False,False,False
+B0041,invite,0,0,0.01441709156108936,0.7,Project sync,False,False,False
+P0246,bec,1,62,0.9868051111701575,80.3,Quick favour,False,False,False
+B0002,memo,0,0,0.02064920082167187,1.0,Faculty meeting Thursday,False,False,False
+P0220,payroll,1,65,0.977965232388033,81.4,Change of direct deposit,False,False,False
+P0114,credential,1,95,0.9997912858417299,97.5,Your password expires today,False,False,False
+B0029,invite,0,0,0.01441709156108936,0.7,Project sync,False,False,False
+B0141,reset,0,0,0.004882058913685334,0.2,Reset your password,False,False,False
+B0179,hard_it,0,33,0.007867348671922316,16.9,Urgent: password expires today,True,False,False
+P0107,invoice,1,70,0.9920371000515333,84.6,Invoice 8355 - payment overdue,False,False,False
+P0050,evasive,1,37,0.9709436701212448,67.0,Shared document,False,False,False
+P0073,invoice,1,80,0.9850367802055289,89.3,Invoice 5497 - payment overdue,False,False,False
+P0236,evasive_bec,1,32,0.9742275348653503,64.7,Updated banking details,False,False,False
+B0142,hard_marketing,0,40,0.03778371735879499,21.9,Final notice: sale ends today!,True,False,False
+P0247,bec,1,62,0.9868051111701575,80.3,Quick favour,False,False,False
+P0237,invoice,1,74,0.9964171178404364,86.8,Invoice 1029 - payment overdue,False,False,False
+B0082,hard_marketing,0,40,0.03778371735879499,21.9,Final notice: sale ends today!,True,False,False
+B0033,newsletter,0,0,0.0077802575141608776,0.4,Monthly newsletter,False,False,False
+B0163,invoice,0,0,0.058706718155559764,2.9,Invoice 9564 for October,False,False,False
+P0062,evasive_bec,1,32,0.9742275348653503,64.7,Updated banking details,False,False,False
+P0188,bec,1,62,0.9868051111701575,80.3,Quick favour,False,False,False
+B0093,reset,0,0,0.004882058913685334,0.2,Reset your password,False,False,False
+P0029,invoice,1,92,0.99501333334915,95.8,Invoice 2894 - payment overdue,False,False,False
+P0148,bec,1,62,0.9868051111701575,80.3,Quick favour,False,False,False
+B0087,invoice,0,0,0.058706718155559764,2.9,Invoice 9524 for October,False,False,False
+P0231,evasive,1,32,0.9741432576057565,64.7,Shared document,False,False,False
+B0187,invite,0,0,0.01441709156108936,0.7,Project sync,False,False,False
+B0172,hard_it,0,33,0.007867348671922316,16.9,Urgent: password expires today,True,False,False
+B0113,invoice,0,0,0.058706718155559764,2.9,Invoice 3140 for October,False,False,False
+P0082,evasive,1,32,0.9741432576057565,64.7,Shared document,False,False,False
+B0228,reset,0,0,0.004882058913685334,0.2,Reset your password,False,False,False
+B0156,invoice,0,0,0.058706718155559764,2.9,Invoice 4560 for October,False,False,False
+P0040,parcel,1,63,0.9629876626751739,79.6,Your parcel could not be delivered,False,False,False
+B0080,hard_it,0,33,0.007867348671922316,16.9,Urgent: password expires today,True,False,False
+P0141,parcel,1,57,0.9909840562827498,78.0,Your parcel could not be delivered,False,False,False
+B0204,newsletter,0,0,0.0077802575141608776,0.4,Monthly newsletter,False,False,False
+P0164,bec,1,62,0.9868051111701575,80.3,Quick favour,False,False,False
+P0233,credential,1,100,0.9998696761044406,100.0,Your password expires today,False,False,False
+B0088,invoice,0,0,0.058706718155559764,2.9,Invoice 3247 for October,False,False,False
+B0164,newsletter,0,0,0.0077802575141608776,0.4,Monthly newsletter,False,False,False
+B0053,reset,0,0,0.004882058913685334,0.2,Reset your password,False,False,False
+B0032,invite,0,0,0.01441709156108936,0.7,Project sync,False,False,False
+B0040,reset,0,0,0.004882058913685334,0.2,Reset your password,False,False,False
+P0243,credential,1,97,0.9993955725736293,98.5,Your password expires today,False,False,False
+B0134,invoice,0,0,0.058706718155559764,2.9,Invoice 8445 for October,False,False,False
+B0038,hard_marketing,0,40,0.03778371735879499,21.9,Final notice: sale ends today!,True,False,False
+B0193,hard_it,0,33,0.007867348671922316,16.9,Urgent: password expires today,True,False,False
+P0200,bec,1,62,0.9868051111701575,80.3,Quick favour,False,False,False
+P0129,payroll,1,85,0.994555179087844,92.2,Change of direct deposit,False,False,False
+P0060,bec,1,62,0.9868051111701575,80.3,Quick favour,False,False,False
+P0182,parcel,1,67,0.9830737830692391,82.7,Your parcel could not be delivered,False,False,False
+B0176,invite,0,0,0.01441709156108936,0.7,Project sync,False,False,False
+B0215,hard_marketing,0,40,0.03778371735879499,21.9,Final notice: sale ends today!,True,False,False
+B0099,memo,0,0,0.02064920082167187,1.0,Faculty meeting Thursday,False,False,False
+P0044,evasive_bec,1,32,0.9742275348653503,64.7,Updated banking details,False,False,False
+P0185,parcel,1,55,0.9504011168119165,75.0,Your parcel could not be delivered,False,False,False
+P0091,bec,1,62,0.9868051111701575,80.3,Quick favour,False,False,False
+P0064,evasive,1,32,0.9741432576057565,64.7,Shared document,False,False,False
+P0168,payroll,1,55,0.9882343549271664,76.9,Change of direct deposit,False,False,False
+P0139,evasive,1,32,0.9741432576057565,64.7,Shared document,False,False,False
+B0138,newsletter,0,0,0.0077802575141608776,0.4,Monthly newsletter,False,False,False
+B0060,newsletter,0,0,0.0077802575141608776,0.4,Monthly newsletter,False,False,False
+P0195,parcel,1,65,0.9933441261599114,82.2,Your parcel could not be delivered,False,False,False
+P0078,evasive,1,32,0.9741432576057565,64.7,Shared document,False,False,False
+B0011,hard_marketing,0,40,0.03778371735879499,21.9,Final notice: sale ends today!,True,False,False
+B0129,reset,0,0,0.004882058913685334,0.2,Reset your password,False,False,False
+B0115,newsletter,0,0,0.0077802575141608776,0.4,Monthly newsletter,False,False,False
+P0235,invoice,1,89,0.9991750576584782,94.5,Invoice 6301 - payment overdue,False,False,False
+B0013,hard_marketing,0,40,0.03778371735879499,21.9,Final notice: sale ends today!,True,False,False
+B0061,invoice,0,0,0.058706718155559764,2.9,Invoice 3595 for October,False,False,False
+P0128,parcel,1,75,0.9874783317983735,86.9,Your parcel could not be delivered,False,False,False
+P0149,evasive,1,32,0.9741432576057565,64.7,Shared document,False,False,False
+B0104,newsletter,0,0,0.0077802575141608776,0.4,Monthly newsletter,False,False,False
+P0054,invoice,1,80,0.9850367802055289,89.3,Invoice 2625 - payment overdue,False,False,False
+P0032,payroll,1,63,0.9913078905285599,81.1,Change of direct deposit,False,False,False
+B0249,newsletter,0,0,0.0077802575141608776,0.4,Monthly newsletter,False,False,False

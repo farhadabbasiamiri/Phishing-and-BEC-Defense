@@ -1,0 +1,943 @@
+id,label,category,subject,from,reply_to,return_path,spf,dkim,dmarc,attachments,body
+B0156,benign,invoice,Invoice 4560 for October,Accounts <billing@granitetools.com>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+B0109,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+P0226,phishing,evasive,Shared document,Noah Lavoie <priya@northshorefoods.ca>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://amaz0n[.]icu/doc
+B0166,benign,newsletter,Monthly newsletter,News <news@microsoft.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.microsoft.com/blog/a
+https://www.microsoft.com/blog/b
+https://www.microsoft.com/events"
+P0037,phishing,evasive,Shared document,Jordan Roy <priya@sudburyprint.ca>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://arnazon[.]support/doc
+P0213,phishing,evasive_bec,Updated banking details,Marc Singh <accounts@granitetools.com>,accounts@northshorefoods-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+B0210,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@granitetools.com>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/dedcdb
+B0002,benign,memo,Faculty meeting Thursday,Emma Brown <sam@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+P0159,phishing,invoice,Invoice 4376 - payment overdue,Accounts <billing@update-linkedin.xyz>,collect@login-mail.xyz,,softfail,fail,fail,Payment.iso,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+B0148,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+P0204,phishing,evasive_bec,Updated banking details,Priya Roy <accounts@granitetools.com>,accounts@bluelakesupply-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0158,phishing,payroll,Change of direct deposit,Liam Lavoie <hr@laurentian-hr.ca>,liam39@gmail.com,,none,fail,fail,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+P0146,phishing,payroll,Change of direct deposit,Noah Tremblay <hr@laurentian-hr.ca>,jordan63@gmail.com,,softfail,none,fail,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+B0113,benign,invoice,Invoice 3140 for October,Accounts <billing@northshorefoods.ca>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+B0009,benign,newsletter,Monthly newsletter,News <news@linkedin.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.linkedin.com/blog/a
+https://www.linkedin.com/blog/b
+https://www.linkedin.com/events"
+P0034,phishing,credential,Action required: Microsoft account suspended,Microsoft Security <no-reply@microsoft-update.icu>,,,softfail,fail,none,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://microsoft-update[.]icu/verify?id=7547
+
+Thank you,
+Microsoft Support"
+B0184,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@northshorefoods.ca>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/c1bbca
+B0078,benign,memo,Faculty meeting Thursday,Emma Lavoie <jordan@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+P0223,phishing,evasive,Shared document,Marc Nguyen <liam@granitetools.com>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://netf1ix[.]top/doc
+B0196,benign,invite,Project sync,Alex Lavoie <chloe@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+P0053,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,fail,none,none,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/z7b89a
+P0240,phishing,evasive,Shared document,Emma Chen <jordan@sudburyprint.ca>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://netflix-portal[.]xyz/doc
+P0177,phishing,evasive_bec,Updated banking details,Chloe Lavoie <accounts@sudburyprint.ca>,accounts@sudburyprint-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0194,phishing,credential,Your password expires today,Amazon Security <no-reply@amazon-help.support>,,,fail,none,fail,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://amazon-help[.]support/verify?id=3258
+
+Thank you,
+Amazon Support"
+B0167,benign,memo,Faculty meeting Thursday,Jordan Martin <omar@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+P0083,phishing,evasive_bec,Updated banking details,Sam Tremblay <accounts@bluelakesupply.ca>,accounts@northshorefoods-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0038,phishing,evasive,Shared document,Priya Gagnon <liam@cedarparts.com>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://google-portal[.]icu/doc
+B0015,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@northshorefoods.ca>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/ebceb2
+B0000,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@cedarparts.com>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/e22fed
+B0077,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+P0181,phishing,invoice,Invoice 2036 - payment overdue,Accounts <billing@rbc-support.icu>,collect@verify-mail.icu,,none,none,fail,Statement_63.docm,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+B0133,benign,invite,Project sync,Priya Patel <chloe@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+B0020,benign,memo,Faculty meeting Thursday,Aisha Brown <aisha@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+P0221,phishing,payroll,Change of direct deposit,Priya Gagnon <hr@laurentian-hr.ca>,aisha17@gmail.com,,none,fail,none,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+B0149,benign,invite,Project sync,Emma Patel <noah@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+P0024,phishing,evasive_bec,Updated banking details,Sam Roy <accounts@cedarparts.com>,accounts@northshorefoods-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+B0135,benign,invoice,Invoice 8751 for October,Accounts <billing@cedarparts.com>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+B0138,benign,newsletter,Monthly newsletter,News <news@paypal.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.paypal.com/blog/a
+https://www.paypal.com/blog/b
+https://www.paypal.com/events"
+P0077,phishing,evasive_bec,Updated banking details,Emma Gagnon <accounts@granitetools.com>,accounts@northshorefoods-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+B0047,benign,invoice,Invoice 3096 for October,Accounts <billing@sudburyprint.ca>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+B0124,benign,memo,Faculty meeting Thursday,Emma Tremblay <alex@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+B0157,benign,memo,Faculty meeting Thursday,Emma Martin <omar@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+P0052,phishing,credential,Unusual sign-in detected,Canadapost Security <no-reply@canadap0st.xyz>,,,fail,fail,none,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://canadap0st[.]xyz/verify?id=5658
+
+Thank you,
+Canadapost Support"
+P0231,phishing,evasive,Shared document,Emma Lavoie <chloe@sudburyprint.ca>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://service-canadapost[.]icu/doc
+P0036,phishing,evasive_bec,Updated banking details,Omar Martin <accounts@cedarparts.com>,accounts@sudburyprint-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0191,phishing,bec,Quick favour,"Sofia Brown, President <sofia.brown@gmail.com>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 6 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Sofia Brown"
+B0040,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+B0128,benign,memo,Faculty meeting Thursday,Aisha Patel <emma@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+P0122,phishing,payroll,Change of direct deposit,Noah Nguyen <hr@laurentian-hr.ca>,liam50@gmail.com,,none,none,none,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+P0136,phishing,credential,Unusual sign-in detected,Google Security <no-reply@goog1e.top>,,,softfail,none,none,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://goog1e[.]top/verify?id=9341
+
+Thank you,
+Google Support"
+B0033,benign,newsletter,Monthly newsletter,News <news@linkedin.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.linkedin.com/blog/a
+https://www.linkedin.com/blog/b
+https://www.linkedin.com/events"
+B0062,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+P0081,phishing,evasive_bec,Updated banking details,Priya Singh <accounts@sudburyprint.ca>,accounts@northshorefoods-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+B0211,benign,newsletter,Monthly newsletter,News <news@rbcroyalbank.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.rbcroyalbank.com/blog/a
+https://www.rbcroyalbank.com/blog/b
+https://www.rbcroyalbank.com/events"
+B0226,benign,newsletter,Monthly newsletter,News <news@docusign.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.docusign.com/blog/a
+https://www.docusign.com/blog/b
+https://www.docusign.com/events"
+P0202,phishing,evasive,Shared document,Omar Nguyen <sam@cedarparts.com>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://d0cusign[.]work/doc
+P0120,phishing,payroll,Change of direct deposit,Omar Tremblay <hr@laurentian-hr.ca>,sam95@gmail.com,,softfail,none,none,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+B0232,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+P0094,phishing,credential,Your password expires today,Microsoft Security <no-reply@micr0soft.xyz>,,,fail,fail,none,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://micr0soft[.]xyz/verify?id=9149
+
+Thank you,
+Microsoft Support"
+P0021,phishing,evasive,Shared document,Marc Roy <chloe@northshorefoods.ca>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://login-docusign[.]top/doc
+B0207,benign,newsletter,Monthly newsletter,News <news@paypal.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.paypal.com/blog/a
+https://www.paypal.com/blog/b
+https://www.paypal.com/events"
+P0115,phishing,credential,Unusual sign-in detected,Dropbox Security <no-reply@dr0pbox.click>,,,softfail,fail,fail,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://dr0pbox[.]click/verify?id=9945
+
+Thank you,
+Dropbox Support"
+P0190,phishing,evasive_bec,Updated banking details,Noah Roy <accounts@cedarparts.com>,accounts@bluelakesupply-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0030,phishing,evasive,Shared document,Emma Nguyen <omar@northshorefoods.ca>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://netflix-update[.]xyz/doc
+B0114,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+B0212,benign,newsletter,Monthly newsletter,News <news@rbcroyalbank.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.rbcroyalbank.com/blog/a
+https://www.rbcroyalbank.com/blog/b
+https://www.rbcroyalbank.com/events"
+P0125,phishing,bec,Quick favour,"Priya Patel, President <priya.patel@gmail.com>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 5 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Priya Patel"
+P0148,phishing,bec,Quick favour,"Jordan Patel, President <jordan.patel@proton.me>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 5 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Jordan Patel"
+P0041,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,pass,pass,pass,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/x8c9x8
+P0012,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,none,fail,none,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/bcxzcb
+B0106,benign,invoice,Invoice 7566 for October,Accounts <billing@northshorefoods.ca>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+B0179,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+B0134,benign,invoice,Invoice 8445 for October,Accounts <billing@bluelakesupply.ca>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+B0123,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+P0100,phishing,payroll,Change of direct deposit,Liam Patel <hr@laurentian-hr.ca>,emma80@gmail.com,,softfail,fail,fail,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+B0203,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@northshorefoods.ca>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/b221d2
+P0156,phishing,evasive_bec,Updated banking details,Sam Patel <accounts@northshorefoods.ca>,accounts@granitetools-com.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0236,phishing,evasive_bec,Updated banking details,Jordan Gagnon <accounts@sudburyprint.ca>,accounts@granitetools-com.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0248,phishing,credential,Action required: Netflix account suspended,Netflix Security <no-reply@netf1ix.top>,,,none,fail,fail,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://netf1ix[.]top/verify?id=4471
+
+Thank you,
+Netflix Support"
+B0093,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+B0186,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@sudburyprint.ca>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/2ea1e3
+P0183,phishing,evasive_bec,Updated banking details,Sofia Patel <accounts@cedarparts.com>,accounts@bluelakesupply-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+B0190,benign,invoice,Invoice 9691 for October,Accounts <billing@bluelakesupply.ca>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+P0004,phishing,credential,Action required: Amazon account suspended,Amazon Security <no-reply@amazon-update.work>,,,fail,fail,fail,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://amazon-update[.]work/verify?id=6977
+
+Thank you,
+Amazon Support"
+P0160,phishing,payroll,Change of direct deposit,Marc Chen <hr@laurentian-hr.ca>,sofia83@gmail.com,,fail,none,none,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+B0139,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@northshorefoods.ca>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/d23ce1
+B0108,benign,invoice,Invoice 7909 for October,Accounts <billing@sudburyprint.ca>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+B0075,benign,memo,Faculty meeting Thursday,Aisha Nguyen <priya@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+P0006,phishing,bec,Quick favour,"Liam Patel, President <liam.patel@gmail.com>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 5 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Liam Patel"
+P0016,phishing,evasive_bec,Updated banking details,Liam Patel <accounts@sudburyprint.ca>,accounts@bluelakesupply-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0098,phishing,payroll,Change of direct deposit,Emma Roy <hr@laurentian-hr.ca>,omar19@gmail.com,,softfail,none,fail,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+B0164,benign,newsletter,Monthly newsletter,News <news@microsoft.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.microsoft.com/blog/a
+https://www.microsoft.com/blog/b
+https://www.microsoft.com/events"
+B0096,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+P0170,phishing,payroll,Change of direct deposit,Alex Lavoie <hr@laurentian-hr.ca>,sofia45@gmail.com,,none,none,fail,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+B0160,benign,invite,Project sync,Emma Brown <omar@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+P0142,phishing,evasive_bec,Updated banking details,Sofia Patel <accounts@granitetools.com>,accounts@sudburyprint-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0164,phishing,bec,Quick favour,"Sam Chen, President <sam.chen@proton.me>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 8 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Sam Chen"
+B0126,benign,invite,Project sync,Aisha Roy <sam@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+B0085,benign,invite,Project sync,Aisha Roy <priya@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+B0025,benign,memo,Faculty meeting Thursday,Marc Gagnon <noah@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+B0235,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+P0118,phishing,bec,Quick favour,"Chloe Lavoie, President <chloe.lavoie@outlook.com>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 3 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Chloe Lavoie"
+B0103,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@northshorefoods.ca>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/2d1db2
+B0073,benign,invoice,Invoice 9524 for October,Accounts <billing@sudburyprint.ca>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+P0005,phishing,bec,Quick favour,"Omar Lavoie, President <omar.lavoie@gmail.com>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 8 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Omar Lavoie"
+P0069,phishing,evasive,Shared document,Aisha Roy <sofia@granitetools.com>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://linkedin-update[.]xyz/doc
+P0154,phishing,evasive_bec,Updated banking details,Sofia Brown <accounts@sudburyprint.ca>,accounts@northshorefoods-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0237,phishing,invoice,Invoice 1029 - payment overdue,Accounts <billing@canadapost-support.top>,collect@update-mail.support,,none,none,fail,Statement_33.docm,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+P0078,phishing,evasive,Shared document,Sam Roy <alex@northshorefoods.ca>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://arnazon[.]work/doc
+P0166,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,softfail,none,none,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/yya9y8
+B0233,benign,invoice,Invoice 6432 for October,Accounts <billing@bluelakesupply.ca>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+B0219,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@bluelakesupply.ca>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/bafe3c
+P0010,phishing,payroll,Change of direct deposit,Priya Tremblay <hr@laurentian-hr.ca>,priya82@gmail.com,,softfail,fail,fail,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+P0015,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,fail,fail,fail,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/ybby8a
+P0013,phishing,credential,Action required: Microsoft account suspended,Microsoft Security <no-reply@rnicrosoft.work>,,,fail,none,fail,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://rnicrosoft[.]work/verify?id=8953
+
+Thank you,
+Microsoft Support"
+P0099,phishing,invoice,Invoice 8245 - payment overdue,Accounts <billing@linkedin-portal.xyz>,collect@support-mail.click,,none,none,none,Statement_17.docm,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+P0139,phishing,evasive,Shared document,Sofia Tremblay <emma@sudburyprint.ca>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://support-paypal[.]support/doc
+P0138,phishing,bec,Quick favour,"Aisha Tremblay, President <aisha.tremblay@outlook.com>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 5 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Aisha Tremblay"
+B0249,benign,newsletter,Monthly newsletter,News <news@canadapost.ca>,,,pass,pass,pass,,"Highlights this month:
+https://www.canadapost.ca/blog/a
+https://www.canadapost.ca/blog/b
+https://www.canadapost.ca/events"
+B0183,benign,invite,Project sync,Jordan Roy <emma@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+P0031,phishing,evasive,Shared document,Liam Gagnon <omar@bluelakesupply.ca>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://support-docusign[.]top/doc
+P0106,phishing,invoice,Invoice 1618 - payment overdue,Accounts <billing@help-amazon.work>,collect@portal-mail.support,,fail,fail,none,Payment.iso,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+P0025,phishing,evasive_bec,Updated banking details,Omar Chen <accounts@northshorefoods.ca>,accounts@granitetools-com.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0224,phishing,bec,Quick favour,"Chloe Gagnon, President <chloe.gagnon@gmail.com>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 7 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Chloe Gagnon"
+B0090,benign,invite,Project sync,Sam Martin <sam@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+P0033,phishing,invoice,Invoice 4848 - payment overdue,Accounts <billing@help-canadapost.click>,collect@support-mail.top,,none,fail,fail,Invoice.pdf.exe,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+P0111,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,fail,none,fail,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/9y87yz
+B0089,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+B0030,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@granitetools.com>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/dddce1
+P0206,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,fail,fail,none,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/7a789x
+P0127,phishing,credential,Action required: Google account suspended,Google Security <no-reply@google-verify.support>,,,none,fail,none,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://google-verify[.]support/verify?id=3981
+
+Thank you,
+Google Support"
+P0048,phishing,payroll,Change of direct deposit,Omar Patel <hr@laurentian-hr.ca>,aisha12@gmail.com,,pass,pass,pass,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+B0066,benign,newsletter,Monthly newsletter,News <news@canadapost.ca>,,,pass,pass,pass,,"Highlights this month:
+https://www.canadapost.ca/blog/a
+https://www.canadapost.ca/blog/b
+https://www.canadapost.ca/events"
+B0080,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+B0121,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+B0086,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+P0151,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,softfail,fail,none,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/yb7987
+P0121,phishing,evasive,Shared document,Omar Nguyen <chloe@sudburyprint.ca>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://netflix-verify[.]xyz/doc
+B0206,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+B0105,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@bluelakesupply.ca>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/c33c1d
+B0130,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@sudburyprint.ca>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/c31ada
+B0192,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@northshorefoods.ca>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/1e3ff3
+P0230,phishing,invoice,Invoice 2437 - payment overdue,Accounts <billing@update-microsoft.icu>,collect@support-mail.icu,,none,fail,none,Invoice.pdf.exe,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+P0233,phishing,credential,Your password expires today,Amazon Security <no-reply@amazon-verify.top>,,,softfail,fail,fail,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://amazon-verify[.]top/verify?id=6210
+
+Thank you,
+Amazon Support"
+P0063,phishing,credential,Your password expires today,Canadapost Security <no-reply@canadapost-login.work>,,,fail,fail,none,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://canadapost-login[.]work/verify?id=5781
+
+Thank you,
+Canadapost Support"
+B0153,benign,invoice,Invoice 3263 for October,Accounts <billing@bluelakesupply.ca>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+P0239,phishing,credential,Unusual sign-in detected,Docusign Security <no-reply@d0cusign.xyz>,,,none,fail,none,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://d0cusign[.]xyz/verify?id=7323
+
+Thank you,
+Docusign Support"
+B0142,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@northshorefoods.ca>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/cbb2b2
+P0235,phishing,invoice,Invoice 6301 - payment overdue,Accounts <billing@rbc-portal.work>,collect@secure-mail.xyz,,none,none,fail,Invoice.pdf.exe,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+B0083,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+B0061,benign,invoice,Invoice 3595 for October,Accounts <billing@bluelakesupply.ca>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+B0200,benign,memo,Faculty meeting Thursday,Noah Tremblay <omar@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+B0188,benign,invite,Project sync,Liam Singh <chloe@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+P0056,phishing,credential,Action required: Amazon account suspended,Amazon Security <no-reply@amazon-verify.click>,,,none,fail,none,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://amazon-verify[.]click/verify?id=3330
+
+Thank you,
+Amazon Support"
+P0097,phishing,credential,Your password expires today,Netflix Security <no-reply@netflix-help.work>,,,none,none,fail,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://netflix-help[.]work/verify?id=2868
+
+Thank you,
+Netflix Support"
+P0201,phishing,evasive_bec,Updated banking details,Sam Singh <accounts@sudburyprint.ca>,accounts@cedarparts-com.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0184,phishing,bec,Quick favour,"Sofia Patel, President <sofia.patel@proton.me>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 4 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Sofia Patel"
+P0174,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,softfail,fail,fail,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/aa99za
+P0165,phishing,evasive,Shared document,Priya Brown <sofia@bluelakesupply.ca>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://canadapost-login[.]work/doc
+P0007,phishing,invoice,Invoice 2489 - payment overdue,Accounts <billing@amazon-verify.support>,collect@secure-mail.xyz,,none,none,none,Invoice.pdf.exe,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+B0159,benign,invite,Project sync,Sofia Singh <chloe@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+P0162,phishing,payroll,Change of direct deposit,Liam Roy <hr@laurentian-hr.ca>,marc58@gmail.com,,softfail,none,fail,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+B0029,benign,invite,Project sync,Priya Martin <emma@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+P0086,phishing,evasive,Shared document,Sofia Nguyen <liam@cedarparts.com>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://paypal-verify[.]click/doc
+P0062,phishing,evasive_bec,Updated banking details,Sofia Roy <accounts@granitetools.com>,accounts@cedarparts-com.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0123,phishing,evasive,Shared document,Marc Martin <sofia@sudburyprint.ca>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://docusign-service[.]support/doc
+P0144,phishing,evasive,Shared document,Jordan Singh <emma@cedarparts.com>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://account-paypal[.]click/doc
+B0070,benign,memo,Faculty meeting Thursday,Marc Roy <sam@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+B0234,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+P0064,phishing,evasive,Shared document,Sofia Roy <sam@granitetools.com>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://docusign-update[.]top/doc
+P0186,phishing,payroll,Change of direct deposit,Emma Gagnon <hr@laurentian-hr.ca>,chloe65@gmail.com,,softfail,fail,fail,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+P0137,phishing,payroll,Change of direct deposit,Jordan Brown <hr@laurentian-hr.ca>,noah27@gmail.com,,pass,pass,pass,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+B0248,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+B0071,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+P0029,phishing,invoice,Invoice 2894 - payment overdue,Accounts <billing@rbc-update.support>,collect@update-mail.support,,softfail,fail,fail,Invoice_294.html,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+B0144,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+B0191,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+B0229,benign,invite,Project sync,Sofia Brown <jordan@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+P0018,phishing,invoice,Invoice 9701 - payment overdue,Accounts <billing@secure-docusign.icu>,collect@verify-mail.xyz,,fail,fail,none,Invoice.pdf.exe,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+B0213,benign,newsletter,Monthly newsletter,News <news@paypal.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.paypal.com/blog/a
+https://www.paypal.com/blog/b
+https://www.paypal.com/events"
+P0027,phishing,bec,Quick favour,"Marc Chen, President <marc.chen@gmail.com>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 3 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Marc Chen"
+B0042,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+B0067,benign,memo,Faculty meeting Thursday,Alex Nguyen <noah@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+B0110,benign,newsletter,Monthly newsletter,News <news@google.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.google.com/blog/a
+https://www.google.com/blog/b
+https://www.google.com/events"
+B0116,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+P0001,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,pass,pass,pass,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/z77xyc
+P0147,phishing,evasive_bec,Updated banking details,Emma Brown <accounts@northshorefoods.ca>,accounts@granitetools-com.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0208,phishing,credential,Action required: Canadapost account suspended,Canadapost Security <no-reply@canadapost-update.support>,,,none,fail,none,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://canadapost-update[.]support/verify?id=8248
+
+Thank you,
+Canadapost Support"
+P0116,phishing,evasive_bec,Updated banking details,Alex Martin <accounts@bluelakesupply.ca>,accounts@northshorefoods-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+B0245,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@bluelakesupply.ca>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/adab3d
+P0155,phishing,payroll,Change of direct deposit,Sofia Tremblay <hr@laurentian-hr.ca>,liam42@gmail.com,,softfail,fail,none,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+P0057,phishing,credential,Your password expires today,Google Security <no-reply@google-update.click>,,,none,none,none,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://google-update[.]click/verify?id=9199
+
+Thank you,
+Google Support"
+B0115,benign,newsletter,Monthly newsletter,News <news@netflix.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.netflix.com/blog/a
+https://www.netflix.com/blog/b
+https://www.netflix.com/events"
+P0088,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,softfail,none,none,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/x7xba9
+B0240,benign,invite,Project sync,Omar Roy <chloe@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+P0149,phishing,evasive,Shared document,Jordan Brown <omar@sudburyprint.ca>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://support-google[.]work/doc
+B0216,benign,invite,Project sync,Jordan Gagnon <noah@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+B0099,benign,memo,Faculty meeting Thursday,Noah Singh <sofia@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+P0072,phishing,evasive_bec,Updated banking details,Sofia Martin <accounts@sudburyprint.ca>,accounts@granitetools-com.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+B0247,benign,newsletter,Monthly newsletter,News <news@microsoft.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.microsoft.com/blog/a
+https://www.microsoft.com/blog/b
+https://www.microsoft.com/events"
+P0023,phishing,bec,Quick favour,"Marc Tremblay, President <marc.tremblay@gmail.com>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 5 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Marc Tremblay"
+P0017,phishing,evasive_bec,Updated banking details,Sofia Lavoie <accounts@sudburyprint.ca>,accounts@bluelakesupply-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+B0223,benign,memo,Faculty meeting Thursday,Jordan Brown <alex@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+P0188,phishing,bec,Quick favour,"Sam Roy, President <sam.roy@outlook.com>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 5 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Sam Roy"
+B0063,benign,memo,Faculty meeting Thursday,Liam Gagnon <liam@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+P0227,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,fail,fail,fail,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/xzzzc8
+P0238,phishing,evasive_bec,Updated banking details,Jordan Singh <accounts@granitetools.com>,accounts@sudburyprint-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0150,phishing,evasive_bec,Updated banking details,Alex Martin <accounts@sudburyprint.ca>,accounts@bluelakesupply-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+B0119,benign,newsletter,Monthly newsletter,News <news@canadapost.ca>,,,pass,pass,pass,,"Highlights this month:
+https://www.canadapost.ca/blog/a
+https://www.canadapost.ca/blog/b
+https://www.canadapost.ca/events"
+P0101,phishing,evasive_bec,Updated banking details,Chloe Singh <accounts@cedarparts.com>,accounts@bluelakesupply-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0171,phishing,payroll,Change of direct deposit,Jordan Chen <hr@laurentian-hr.ca>,priya89@gmail.com,,pass,pass,pass,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+B0111,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+P0102,phishing,credential,Your password expires today,Amazon Security <no-reply@amazon-portal.icu>,,,softfail,fail,none,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://amazon-portal[.]icu/verify?id=6543
+
+Thank you,
+Amazon Support"
+B0019,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+B0031,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@sudburyprint.ca>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/fa332f
+B0091,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@sudburyprint.ca>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/bbceb1
+B0197,benign,invite,Project sync,Aisha Patel <alex@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+B0097,benign,newsletter,Monthly newsletter,News <news@rbcroyalbank.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.rbcroyalbank.com/blog/a
+https://www.rbcroyalbank.com/blog/b
+https://www.rbcroyalbank.com/events"
+B0003,benign,newsletter,Monthly newsletter,News <news@rbcroyalbank.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.rbcroyalbank.com/blog/a
+https://www.rbcroyalbank.com/blog/b
+https://www.rbcroyalbank.com/events"
+P0061,phishing,bec,Quick favour,"Emma Patel, President <emma.patel@proton.me>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 6 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Emma Patel"
+B0161,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+B0218,benign,newsletter,Monthly newsletter,News <news@canadapost.ca>,,,pass,pass,pass,,"Highlights this month:
+https://www.canadapost.ca/blog/a
+https://www.canadapost.ca/blog/b
+https://www.canadapost.ca/events"
+P0172,phishing,payroll,Change of direct deposit,Sofia Chen <hr@laurentian-hr.ca>,marc97@gmail.com,,softfail,none,fail,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+B0150,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@cedarparts.com>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/b2affc
+B0004,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@granitetools.com>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/222cff
+P0059,phishing,evasive_bec,Updated banking details,Sam Patel <accounts@granitetools.com>,accounts@sudburyprint-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0178,phishing,invoice,Invoice 7383 - payment overdue,Accounts <billing@rbc-verify.icu>,collect@portal-mail.click,,fail,none,fail,Invoice_209.html,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+P0234,phishing,evasive,Shared document,Aisha Tremblay <sam@northshorefoods.ca>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://service-dropbox[.]click/doc
+B0205,benign,newsletter,Monthly newsletter,News <news@linkedin.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.linkedin.com/blog/a
+https://www.linkedin.com/blog/b
+https://www.linkedin.com/events"
+P0153,phishing,evasive,Shared document,Sam Brown <sam@northshorefoods.ca>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://canadapost-login[.]support/doc
+P0200,phishing,bec,Quick favour,"Priya Roy, President <priya.roy@proton.me>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 5 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Priya Roy"
+B0132,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+B0112,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@northshorefoods.ca>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/df21bd
+B0001,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+B0162,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+B0005,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+P0168,phishing,payroll,Change of direct deposit,Jordan Roy <hr@laurentian-hr.ca>,sofia79@gmail.com,,none,none,none,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+B0180,benign,memo,Faculty meeting Thursday,Sofia Lavoie <sam@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+B0098,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+B0018,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+B0143,benign,memo,Faculty meeting Thursday,Sam Gagnon <alex@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+P0126,phishing,payroll,Change of direct deposit,Noah Gagnon <hr@laurentian-hr.ca>,liam83@gmail.com,,none,fail,fail,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+P0163,phishing,invoice,Invoice 9683 - payment overdue,Accounts <billing@secure-canadapost.icu>,collect@verify-mail.icu,,fail,none,fail,Invoice.pdf.exe,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+P0044,phishing,evasive_bec,Updated banking details,Noah Gagnon <accounts@granitetools.com>,accounts@northshorefoods-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+B0215,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@cedarparts.com>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/a1ddfe
+P0198,phishing,evasive,Shared document,Priya Brown <sofia@granitetools.com>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://amazon-portal[.]xyz/doc
+P0242,phishing,credential,Action required: Dropbox account suspended,Dropbox Security <no-reply@verify-dropbox.icu>,,,none,none,fail,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://verify-dropbox[.]icu/verify?id=3573
+
+Thank you,
+Dropbox Support"
+P0014,phishing,payroll,Change of direct deposit,Omar Gagnon <hr@laurentian-hr.ca>,chloe64@gmail.com,,none,none,fail,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+P0152,phishing,evasive,Shared document,Sofia Brown <chloe@sudburyprint.ca>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://paypal-account[.]top/doc
+B0131,benign,invite,Project sync,Sam Brown <emma@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+P0182,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,fail,none,fail,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/9cz8cx
+B0140,benign,newsletter,Monthly newsletter,News <news@google.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.google.com/blog/a
+https://www.google.com/blog/b
+https://www.google.com/events"
+B0127,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@granitetools.com>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/c3acfd
+P0167,phishing,invoice,Invoice 5836 - payment overdue,Accounts <billing@support-dropbox.support>,collect@verify-mail.top,,fail,fail,fail,Payment.iso,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+B0037,benign,memo,Faculty meeting Thursday,Noah Chen <alex@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+B0023,benign,invoice,Invoice 1813 for October,Accounts <billing@sudburyprint.ca>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+P0196,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,softfail,none,none,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/z8bacc
+B0107,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+P0040,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,softfail,fail,none,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/axzazb
+B0054,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@cedarparts.com>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/3a3e2d
+P0113,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,fail,none,fail,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/zcxza9
+B0244,benign,memo,Faculty meeting Thursday,Chloe Tremblay <priya@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+P0032,phishing,payroll,Change of direct deposit,Aisha Patel <hr@laurentian-hr.ca>,aisha96@gmail.com,,none,fail,none,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+P0045,phishing,payroll,Change of direct deposit,Omar Patel <hr@laurentian-hr.ca>,sofia29@gmail.com,,pass,pass,pass,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+P0222,phishing,invoice,Invoice 8511 - payment overdue,Accounts <billing@docusign-account.work>,collect@login-mail.support,,pass,pass,pass,Invoice.pdf.exe,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+B0146,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+P0074,phishing,payroll,Change of direct deposit,Omar Singh <hr@laurentian-hr.ca>,omar92@gmail.com,,softfail,fail,none,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+P0046,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,none,none,none,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/88a8cy
+B0137,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+P0199,phishing,evasive_bec,Updated banking details,Marc Brown <accounts@cedarparts.com>,accounts@bluelakesupply-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+B0027,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+P0026,phishing,evasive_bec,Updated banking details,Sofia Nguyen <accounts@sudburyprint.ca>,accounts@bluelakesupply-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0173,phishing,evasive_bec,Updated banking details,Alex Tremblay <accounts@bluelakesupply.ca>,accounts@northshorefoods-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0205,phishing,evasive_bec,Updated banking details,Alex Gagnon <accounts@granitetools.com>,accounts@bluelakesupply-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+B0010,benign,invoice,Invoice 6535 for October,Accounts <billing@northshorefoods.ca>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+P0109,phishing,evasive_bec,Updated banking details,Sam Martin <accounts@northshorefoods.ca>,accounts@bluelakesupply-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0051,phishing,evasive_bec,Updated banking details,Priya Nguyen <accounts@bluelakesupply.ca>,accounts@granitetools-com.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+B0171,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@bluelakesupply.ca>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/1fc22c
+P0228,phishing,credential,Action required: Paypal account suspended,Paypal Security <no-reply@paypal-secure.icu>,,,none,none,fail,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://paypal-secure[.]icu/verify?id=1829
+
+Thank you,
+Paypal Support"
+B0152,benign,invite,Project sync,Marc Gagnon <chloe@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+B0065,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+P0070,phishing,credential,Your password expires today,Microsoft Security <no-reply@microsoft-account.support>,,,fail,none,none,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://microsoft-account[.]support/verify?id=7751
+
+Thank you,
+Microsoft Support"
+B0243,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@bluelakesupply.ca>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/1bbff2
+B0220,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+P0157,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,none,none,none,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/7zyzxb
+B0172,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+B0241,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+B0034,benign,newsletter,Monthly newsletter,News <news@dropbox.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.dropbox.com/blog/a
+https://www.dropbox.com/blog/b
+https://www.dropbox.com/events"
+B0036,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+B0092,benign,invoice,Invoice 9980 for October,Accounts <billing@northshorefoods.ca>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+P0091,phishing,bec,Quick favour,"Sam Lavoie, President <sam.lavoie@gmail.com>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 6 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Sam Lavoie"
+P0247,phishing,bec,Quick favour,"Emma Chen, President <emma.chen@outlook.com>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 5 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Emma Chen"
+B0035,benign,invoice,Invoice 5278 for October,Accounts <billing@granitetools.com>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+B0032,benign,invite,Project sync,Marc Martin <omar@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+P0211,phishing,evasive,Shared document,Noah Tremblay <chloe@granitetools.com>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://netf1ix[.]icu/doc
+P0104,phishing,payroll,Change of direct deposit,Marc Lavoie <hr@laurentian-hr.ca>,liam92@gmail.com,,none,fail,none,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+P0203,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,fail,none,none,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/zyx7aa
+P0141,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,none,none,fail,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/ycb9xx
+B0236,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@sudburyprint.ca>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/ebf22b
+B0039,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+P0216,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,none,none,fail,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/8ca7za
+B0024,benign,memo,Faculty meeting Thursday,Priya Chen <omar@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+P0133,phishing,evasive_bec,Updated banking details,Marc Patel <accounts@northshorefoods.ca>,accounts@northshorefoods-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0129,phishing,payroll,Change of direct deposit,Emma Tremblay <hr@laurentian-hr.ca>,alex20@gmail.com,,softfail,fail,fail,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+B0049,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+P0218,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,fail,none,fail,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/caxy9b
+P0079,phishing,bec,Quick favour,"Chloe Lavoie, President <chloe.lavoie@outlook.com>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 7 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Chloe Lavoie"
+P0054,phishing,invoice,Invoice 2625 - payment overdue,Accounts <billing@paypal-update.click>,collect@account-mail.work,,softfail,fail,none,Invoice_316.html,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+B0199,benign,newsletter,Monthly newsletter,News <news@paypal.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.paypal.com/blog/a
+https://www.paypal.com/blog/b
+https://www.paypal.com/events"
+B0169,benign,memo,Faculty meeting Thursday,Alex Nguyen <aisha@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+P0161,phishing,bec,Quick favour,"Marc Martin, President <marc.martin@gmail.com>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 7 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Marc Martin"
+P0105,phishing,evasive_bec,Updated banking details,Jordan Chen <accounts@granitetools.com>,accounts@sudburyprint-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+B0228,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+B0068,benign,memo,Faculty meeting Thursday,Omar Tremblay <omar@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+B0016,benign,invite,Project sync,Jordan Chen <priya@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+B0104,benign,newsletter,Monthly newsletter,News <news@microsoft.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.microsoft.com/blog/a
+https://www.microsoft.com/blog/b
+https://www.microsoft.com/events"
+B0094,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+B0045,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+B0227,benign,invite,Project sync,Priya Nguyen <aisha@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+P0002,phishing,evasive_bec,Updated banking details,Liam Singh <accounts@granitetools.com>,accounts@granitetools-com.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0096,phishing,bec,Quick favour,"Liam Brown, President <liam.brown@outlook.com>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 7 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Liam Brown"
+P0131,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,none,fail,fail,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/xb8c9x
+P0209,phishing,credential,Your password expires today,Paypal Security <no-reply@paypa1.top>,,,fail,none,none,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://paypa1[.]top/verify?id=5537
+
+Thank you,
+Paypal Support"
+B0242,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@granitetools.com>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/beadac
+B0158,benign,invoice,Invoice 9255 for October,Accounts <billing@bluelakesupply.ca>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+B0151,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+P0042,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,fail,none,fail,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/8zcyb9
+P0119,phishing,evasive,Shared document,Chloe Martin <marc@sudburyprint.ca>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://netflix-portal[.]xyz/doc
+P0244,phishing,payroll,Change of direct deposit,Sam Tremblay <hr@laurentian-hr.ca>,priya31@gmail.com,,softfail,fail,none,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+P0130,phishing,credential,Your password expires today,Rbc Security <no-reply@rbc-support.icu>,,,fail,none,fail,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://rbc-support[.]icu/verify?id=5012
+
+Thank you,
+Rbc Support"
+B0170,benign,newsletter,Monthly newsletter,News <news@rbcroyalbank.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.rbcroyalbank.com/blog/a
+https://www.rbcroyalbank.com/blog/b
+https://www.rbcroyalbank.com/events"
+P0217,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,softfail,fail,none,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/cya8cy
+P0050,phishing,evasive,Shared document,Chloe Singh <sofia@cedarparts.com>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://canadapost-login[.]work/doc
+B0044,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+B0051,benign,invoice,Invoice 5817 for October,Accounts <billing@cedarparts.com>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+P0179,phishing,bec,Quick favour,"Liam Singh, President <liam.singh@gmail.com>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 3 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Liam Singh"
+P0195,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,none,fail,fail,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/8z89yb
+B0102,benign,invoice,Invoice 2635 for October,Accounts <billing@northshorefoods.ca>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+B0125,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+P0219,phishing,evasive_bec,Updated banking details,Alex Nguyen <accounts@bluelakesupply.ca>,accounts@granitetools-com.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+B0021,benign,memo,Faculty meeting Thursday,Emma Lavoie <chloe@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+B0175,benign,invite,Project sync,Alex Martin <priya@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+P0189,phishing,bec,Quick favour,"Chloe Singh, President <chloe.singh@outlook.com>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 3 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Chloe Singh"
+P0215,phishing,credential,Action required: Linkedin account suspended,Linkedin Security <no-reply@1inkedin.work>,,,fail,none,fail,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://1inkedin[.]work/verify?id=1185
+
+Thank you,
+Linkedin Support"
+B0154,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+P0220,phishing,payroll,Change of direct deposit,Alex Gagnon <hr@laurentian-hr.ca>,alex39@gmail.com,,fail,none,none,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+B0082,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@cedarparts.com>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/a3ffa1
+P0000,phishing,evasive,Shared document,Omar Lavoie <sam@cedarparts.com>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://paypa1[.]top/doc
+B0026,benign,newsletter,Monthly newsletter,News <news@microsoft.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.microsoft.com/blog/a
+https://www.microsoft.com/blog/b
+https://www.microsoft.com/events"
+B0198,benign,invoice,Invoice 9419 for October,Accounts <billing@granitetools.com>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+P0066,phishing,bec,Quick favour,"Alex Nguyen, President <alex.nguyen@proton.me>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 6 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Alex Nguyen"
+B0136,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+B0145,benign,newsletter,Monthly newsletter,News <news@linkedin.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.linkedin.com/blog/a
+https://www.linkedin.com/blog/b
+https://www.linkedin.com/events"
+P0047,phishing,payroll,Change of direct deposit,Emma Martin <hr@laurentian-hr.ca>,noah11@gmail.com,,softfail,none,fail,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+B0195,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+B0007,benign,invite,Project sync,Alex Gagnon <chloe@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+B0022,benign,invoice,Invoice 2480 for October,Accounts <billing@granitetools.com>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+P0019,phishing,credential,Your password expires today,Rbc Security <no-reply@rbc-account.support>,,,pass,pass,pass,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://rbc-account[.]support/verify?id=1651
+
+Thank you,
+Rbc Support"
+B0141,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+B0064,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+P0243,phishing,credential,Your password expires today,Dropbox Security <no-reply@dropbox-login.xyz>,,,fail,none,none,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://dropbox-login[.]xyz/verify?id=7437
+
+Thank you,
+Dropbox Support"
+P0090,phishing,invoice,Invoice 1430 - payment overdue,Accounts <billing@support-linkedin.top>,collect@support-mail.xyz,,fail,none,none,Statement_44.docm,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+P0049,phishing,credential,Unusual sign-in detected,Docusign Security <no-reply@service-docusign.support>,,,none,fail,none,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://service-docusign[.]support/verify?id=6632
+
+Thank you,
+Docusign Support"
+B0147,benign,invite,Project sync,Aisha Tremblay <noah@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+B0202,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+P0214,phishing,payroll,Change of direct deposit,Alex Chen <hr@laurentian-hr.ca>,sam65@gmail.com,,fail,none,none,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+B0100,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+B0008,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+B0017,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@bluelakesupply.ca>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/aadbde
+P0103,phishing,payroll,Change of direct deposit,Marc Martin <hr@laurentian-hr.ca>,sofia94@gmail.com,,none,none,fail,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+P0008,phishing,evasive_bec,Updated banking details,Omar Lavoie <accounts@granitetools.com>,accounts@granitetools-com.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0055,phishing,invoice,Invoice 1534 - payment overdue,Accounts <billing@service-amazon.icu>,collect@account-mail.click,,fail,fail,fail,Payment.iso,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+P0067,phishing,evasive,Shared document,Sam Patel <sam@cedarparts.com>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://verify-netflix[.]support/doc
+P0197,phishing,evasive_bec,Updated banking details,Noah Chen <accounts@sudburyprint.ca>,accounts@northshorefoods-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+B0237,benign,invite,Project sync,Marc Singh <sofia@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+B0193,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+P0035,phishing,invoice,Invoice 2988 - payment overdue,Accounts <billing@microsoft-verify.xyz>,collect@service-mail.top,,fail,none,fail,Statement_69.docm,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+B0182,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+B0055,benign,invoice,Invoice 3470 for October,Accounts <billing@northshorefoods.ca>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+P0232,phishing,bec,Quick favour,"Chloe Brown, President <chloe.brown@gmail.com>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 4 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Chloe Brown"
+P0175,phishing,evasive_bec,Updated banking details,Jordan Brown <accounts@bluelakesupply.ca>,accounts@cedarparts-com.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+B0101,benign,invoice,Invoice 5850 for October,Accounts <billing@sudburyprint.ca>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+B0120,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@cedarparts.com>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/c32e1f
+B0163,benign,invoice,Invoice 9564 for October,Accounts <billing@northshorefoods.ca>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+P0135,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,pass,pass,pass,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/ay7c97
+B0011,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@granitetools.com>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/ce1a2b
+B0087,benign,invoice,Invoice 9524 for October,Accounts <billing@northshorefoods.ca>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+B0069,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+P0093,phishing,evasive_bec,Updated banking details,Alex Chen <accounts@sudburyprint.ca>,accounts@cedarparts-com.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+B0048,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+P0073,phishing,invoice,Invoice 5497 - payment overdue,Accounts <billing@netflix-secure.work>,collect@secure-mail.support,,fail,fail,none,Invoice_985.html,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+B0057,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+B0178,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+P0112,phishing,credential,Action required: Microsoft account suspended,Microsoft Security <no-reply@rnicrosoft.xyz>,,,fail,none,fail,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://rnicrosoft[.]xyz/verify?id=1782
+
+Thank you,
+Microsoft Support"
+P0087,phishing,payroll,Change of direct deposit,Liam Nguyen <hr@laurentian-hr.ca>,aisha61@gmail.com,,none,none,fail,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+B0187,benign,invite,Project sync,Noah Roy <liam@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+P0241,phishing,credential,Your password expires today,Microsoft Security <no-reply@microsoft-update.top>,,,softfail,none,fail,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://microsoft-update[.]top/verify?id=2228
+
+Thank you,
+Microsoft Support"
+B0060,benign,newsletter,Monthly newsletter,News <news@linkedin.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.linkedin.com/blog/a
+https://www.linkedin.com/blog/b
+https://www.linkedin.com/events"
+P0229,phishing,payroll,Change of direct deposit,Jordan Martin <hr@laurentian-hr.ca>,marc67@gmail.com,,softfail,none,fail,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+P0110,phishing,bec,Quick favour,"Liam Lavoie, President <liam.lavoie@outlook.com>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 4 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Liam Lavoie"
+P0043,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,fail,fail,fail,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/z9x9bz
+P0145,phishing,invoice,Invoice 6411 - payment overdue,Accounts <billing@amazon-secure.xyz>,collect@service-mail.xyz,,pass,pass,pass,Invoice_797.html,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+B0221,benign,memo,Faculty meeting Thursday,Omar Lavoie <jordan@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+B0122,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+B0189,benign,memo,Faculty meeting Thursday,Omar Nguyen <chloe@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+P0009,phishing,credential,Your password expires today,Docusign Security <no-reply@verify-docusign.xyz>,,,softfail,fail,none,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://verify-docusign[.]xyz/verify?id=5889
+
+Thank you,
+Docusign Support"
+B0076,benign,memo,Faculty meeting Thursday,Alex Chen <priya@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+B0038,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@sudburyprint.ca>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/f11f3c
+B0056,benign,memo,Faculty meeting Thursday,Chloe Gagnon <emma@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+B0224,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@sudburyprint.ca>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/fa1cbf
+B0225,benign,invoice,Invoice 4842 for October,Accounts <billing@bluelakesupply.ca>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+P0092,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,softfail,none,none,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/7czyxc
+P0132,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,none,fail,none,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/cacxzc
+P0085,phishing,evasive_bec,Updated banking details,Alex Patel <accounts@sudburyprint.ca>,accounts@sudburyprint-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0028,phishing,evasive,Shared document,Chloe Tremblay <sam@granitetools.com>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://amazon-portal[.]work/doc
+P0075,phishing,credential,Action required: Docusign account suspended,Docusign Security <no-reply@docusign-update.top>,,,fail,none,fail,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://docusign-update[.]top/verify?id=4289
+
+Thank you,
+Docusign Support"
+B0173,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+P0020,phishing,credential,Action required: Netflix account suspended,Netflix Security <no-reply@netf1ix.click>,,,none,none,none,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://netf1ix[.]click/verify?id=7484
+
+Thank you,
+Netflix Support"
+B0012,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+B0072,benign,invite,Project sync,Jordan Singh <alex@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+P0068,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,softfail,fail,fail,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/z888xc
+B0181,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+B0053,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+B0043,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+P0065,phishing,evasive_bec,Updated banking details,Jordan Patel <accounts@cedarparts.com>,accounts@sudburyprint-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0022,phishing,invoice,Invoice 2891 - payment overdue,Accounts <billing@dr0pbox.top>,collect@login-mail.work,,softfail,none,fail,Statement_29.docm,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+P0124,phishing,invoice,Invoice 2438 - payment overdue,Accounts <billing@rbc-verify.top>,collect@portal-mail.work,,softfail,fail,fail,Statement_18.docm,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+P0011,phishing,credential,Your password expires today,Paypal Security <no-reply@paypa1.click>,,,fail,fail,fail,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://paypa1[.]click/verify?id=9645
+
+Thank you,
+Paypal Support"
+P0210,phishing,credential,Action required: Amazon account suspended,Amazon Security <no-reply@account-amazon.support>,,,none,none,fail,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://account-amazon[.]support/verify?id=9348
+
+Thank you,
+Amazon Support"
+B0176,benign,invite,Project sync,Priya Nguyen <emma@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+B0081,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+P0082,phishing,evasive,Shared document,Emma Chen <priya@granitetools.com>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://amazon-account[.]xyz/doc
+B0052,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+P0107,phishing,invoice,Invoice 8355 - payment overdue,Accounts <billing@google-account.icu>,collect@account-mail.support,,none,fail,none,Payment.iso,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+B0185,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+P0245,phishing,evasive,Shared document,Sam Lavoie <liam@bluelakesupply.ca>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://docusign-update[.]work/doc
+B0095,benign,invoice,Invoice 1208 for October,Accounts <billing@northshorefoods.ca>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+B0217,benign,invoice,Invoice 7113 for October,Accounts <billing@granitetools.com>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+P0058,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,pass,pass,pass,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/c78za7
+B0118,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+P0169,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,none,fail,fail,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/8c7ayx
+B0165,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+P0212,phishing,invoice,Invoice 2106 - payment overdue,Accounts <billing@netflix-help.xyz>,collect@secure-mail.click,,none,none,none,Invoice_320.html,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+B0208,benign,newsletter,Monthly newsletter,News <news@microsoft.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.microsoft.com/blog/a
+https://www.microsoft.com/blog/b
+https://www.microsoft.com/events"
+B0088,benign,invoice,Invoice 3247 for October,Accounts <billing@cedarparts.com>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+P0060,phishing,bec,Quick favour,"Aisha Singh, President <aisha.singh@outlook.com>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 5 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Aisha Singh"
+B0222,benign,memo,Faculty meeting Thursday,Priya Brown <marc@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+B0117,benign,newsletter,Monthly newsletter,News <news@docusign.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.docusign.com/blog/a
+https://www.docusign.com/blog/b
+https://www.docusign.com/events"
+B0058,benign,invoice,Invoice 8988 for October,Accounts <billing@northshorefoods.ca>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+P0185,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,fail,none,none,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/78a9yx
+P0080,phishing,evasive,Shared document,Priya Patel <aisha@bluelakesupply.ca>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://g0ogle[.]work/doc
+P0095,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,none,fail,none,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/yacxxz
+P0076,phishing,evasive_bec,Updated banking details,Sam Roy <accounts@bluelakesupply.ca>,accounts@sudburyprint-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0108,phishing,evasive_bec,Updated banking details,Jordan Chen <accounts@cedarparts.com>,accounts@bluelakesupply-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0143,phishing,bec,Quick favour,"Jordan Martin, President <jordan.martin@gmail.com>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 5 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Jordan Martin"
+B0079,benign,newsletter,Monthly newsletter,News <news@dropbox.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.dropbox.com/blog/a
+https://www.dropbox.com/blog/b
+https://www.dropbox.com/events"
+B0013,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@granitetools.com>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/1fad3d
+B0231,benign,memo,Faculty meeting Thursday,Chloe Chen <priya@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+P0117,phishing,evasive_bec,Updated banking details,Marc Nguyen <accounts@northshorefoods.ca>,accounts@granitetools-com.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+P0084,phishing,bec,Quick favour,"Sofia Singh, President <sofia.singh@outlook.com>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 6 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Sofia Singh"
+P0225,phishing,bec,Quick favour,"Priya Nguyen, President <priya.nguyen@gmail.com>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 3 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Priya Nguyen"
+P0071,phishing,evasive,Shared document,Aisha Martin <omar@northshorefoods.ca>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://goog1e[.]icu/doc
+B0201,benign,newsletter,Monthly newsletter,News <news@amazon.ca>,,,pass,pass,pass,,"Highlights this month:
+https://www.amazon.ca/blog/a
+https://www.amazon.ca/blog/b
+https://www.amazon.ca/events"
+B0006,benign,memo,Faculty meeting Thursday,Liam Roy <emma@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+P0003,phishing,payroll,Change of direct deposit,Emma Chen <hr@laurentian-hr.ca>,sofia18@gmail.com,,none,none,fail,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+B0059,benign,invoice,Invoice 1950 for October,Accounts <billing@granitetools.com>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+B0204,benign,newsletter,Monthly newsletter,News <news@google.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.google.com/blog/a
+https://www.google.com/blog/b
+https://www.google.com/events"
+P0246,phishing,bec,Quick favour,"Jordan Singh, President <jordan.singh@gmail.com>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 8 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Jordan Singh"
+B0155,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+P0249,phishing,invoice,Invoice 2425 - payment overdue,Accounts <billing@rnicrosoft.work>,collect@update-mail.support,,none,none,fail,Statement_80.docm,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+P0176,phishing,evasive_bec,Updated banking details,Alex Singh <accounts@sudburyprint.ca>,accounts@bluelakesupply-ca.com,,pass,pass,none,,"Hello, our bank account details have changed. Please use the new details for the next payment."
+B0194,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+B0168,benign,invoice,Invoice 5835 for October,Accounts <billing@northshorefoods.ca>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+P0180,phishing,bec,Quick favour,"Liam Singh, President <liam.singh@proton.me>",,,pass,none,none,,"Hi,
+
+I am in a meeting and cannot talk. I need you to purchase 7 gift card codes of $100 for a client today. Keep this confidential and reply only by email.
+
+Liam Singh"
+P0207,phishing,invoice,Invoice 5902 - payment overdue,Accounts <billing@linkedin-login.click>,collect@verify-mail.icu,,pass,pass,pass,Invoice.pdf.exe,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+B0230,benign,invite,Project sync,Chloe Nguyen <liam@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+P0114,phishing,credential,Your password expires today,Canadapost Security <no-reply@canadapost-service.click>,,,none,fail,none,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://canadapost-service[.]click/verify?id=5155
+
+Thank you,
+Canadapost Support"
+B0214,benign,invoice,Invoice 5748 for October,Accounts <billing@northshorefoods.ca>,,,pass,pass,pass,invoice.pdf,"Hello, attached is the invoice for last month's order. Payment terms are net 30. Let us know if you have questions."
+B0239,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@northshorefoods.ca>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/2f1bac
+P0128,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,fail,fail,fail,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/x998cz
+B0014,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+P0039,phishing,evasive,Shared document,Noah Lavoie <emma@bluelakesupply.ca>,,,pass,pass,pass,,I shared a file with you. Please sign in to view it: hxxps://rnicrosoft[.]icu/doc
+B0246,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+B0209,benign,memo,Faculty meeting Thursday,Noah Singh <emma@laurentian.ca>,,,pass,pass,pass,agenda.pdf,"Hi all, reminder of the meeting Thursday at 2pm in room A-204. Agenda attached. Thanks!"
+B0238,benign,newsletter,Monthly newsletter,News <news@microsoft.com>,,,pass,pass,pass,,"Highlights this month:
+https://www.microsoft.com/blog/a
+https://www.microsoft.com/blog/b
+https://www.microsoft.com/events"
+B0050,benign,hard_marketing,Final notice: sale ends today!,Deals <deals@granitetools.com>,,,softfail,pass,pass,,Act now! Our sale expires today. Shop: https://bit.ly/fcc2d2
+P0187,phishing,credential,Unusual sign-in detected,Microsoft Security <no-reply@help-microsoft.support>,,,pass,pass,pass,,"Hello,
+
+We noticed unusual activity. You must verify your account within 24 hours or it will be suspended.
+Sign in here: hxxps://help-microsoft[.]support/verify?id=4621
+
+Thank you,
+Microsoft Support"
+P0193,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,softfail,none,none,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/87czab
+B0084,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+P0192,phishing,payroll,Change of direct deposit,Jordan Nguyen <hr@laurentian-hr.ca>,chloe35@gmail.com,,none,fail,fail,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+P0089,phishing,payroll,Change of direct deposit,Sam Brown <hr@laurentian-hr.ca>,noah37@gmail.com,,softfail,none,none,,"Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email."
+B0041,benign,invite,Project sync,Priya Nguyen <sofia@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+B0028,benign,hard_it,Urgent: password expires today,IT Help Desk <helpdesk@laurentian.ca>,,,pass,fail,pass,,Your campus password expires today. Please log in at https://login.microsoftonline.com to change it immediately.
+B0046,benign,invite,Project sync,Jordan Lavoie <jordan@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+P0134,phishing,parcel,Your parcel could not be delivered,Canada Post <tracking@canadapost-delivery.top>,,,fail,fail,none,,Delivery failed. Reschedule immediately and pay the $2.99 fee: hxxps://bit[.]ly/caabcx
+B0129,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+B0177,benign,invite,Project sync,Priya Chen <marc@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."
+P0140,phishing,invoice,Invoice 4125 - payment overdue,Accounts <billing@secure-canadapost.work>,collect@secure-mail.icu,,none,none,fail,Invoice.pdf.exe,Please find the attached invoice. Payment is urgent; final notice before escalation. Open the attachment to view bank details.
+B0174,benign,reset,Reset your password,Google <no-reply@accounts.google.com>,,,pass,pass,pass,,"You asked to reset your password. Sign in to your account at https://accounts.google.com/reset within 24 hours. If this wasn't you, ignore this email."
+B0074,benign,invite,Project sync,Chloe Gagnon <omar@laurentian.ca>,,,pass,pass,pass,,"Join the call at https://teams.microsoft.com/l/meetup-join/abc. Agenda: status update, risks, next steps."

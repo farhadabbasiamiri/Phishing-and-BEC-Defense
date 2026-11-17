@@ -1,0 +1,7 @@
+From: LinkedIn News <news@linkedin.com>
+Subject: Your weekly digest
+Authentication-Results: mx.example; spf=pass; dkim=pass; dmarc=pass
+
+Top stories this week:
+https://www.linkedin.com/news/story/1
+https://www.linkedin.com/news/story/2

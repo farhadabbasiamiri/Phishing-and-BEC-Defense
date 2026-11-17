@@ -1,0 +1,6 @@
+From: Chloe Martin <hr@laurentian-hr.ca>
+Reply-To: chloe.martin47@gmail.com
+Subject: Change of direct deposit
+Authentication-Results: mx.example; spf=pass; dkim=none; dmarc=none
+
+Hello payroll, please update my bank account details before Friday. Do not call, I am travelling. Send confirmation by email.
